@@ -7,7 +7,7 @@ import { useState } from "react";
 const contactLinks = [
   { icon: Mail,    label: "Email",    value: "nindyaDesyana@email.com",          href: "mailto:nindyaDesyana@email.com" },
   { icon: Link2,   label: "LinkedIn", value: "linkedin.com/in/nindya-desyana",   href: "https://linkedin.com/in/nindya-desyana" },
-  { icon: GitFork, label: "GitHub",   value: "github.com/nindyaadesyana",         href: "https://github.com/nindyaadesyana" },
+  { icon: GitFork, label: "GitHub",   value: "github.com/nindyaadesayana",         href: "https://github.com/nindyaadesyana" },
 ];
 
 export default function Contact() {
